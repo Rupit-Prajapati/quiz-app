@@ -1,6 +1,5 @@
 import React from "react";
 import ToggleMode from "./ToggleMode";
-import { Typography } from "@mui/material";
 import { useTheme } from "@mui/material/styles";
 import { Box } from "@chakra-ui/react";
 import QuestionCard from "./QuestionCard";
